@@ -1,6 +1,8 @@
 # wikiname
 
-[Menu Item 1]()
+[About](about.md)
+- - - -
+[People]()
 
   * # SubMenu Heading 1
   * [SubMenu Item 1](subitem1.md)
@@ -12,6 +14,8 @@
   * # SubMenu Heading 3
   * [SubMenu Item 3](subitem3.md)
 
-[Menu Item 2](item2.md)
+[Geographies](item2.md)
 - - - -
-[Menu Item 3](item3.md)
+[Visualizations](item3.md)
+- - - -
+[Credits](item3.md)
